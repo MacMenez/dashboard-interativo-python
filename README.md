@@ -1,2 +1,4 @@
 # dashboard-interativo-python
 Projeto desenvolvido em Jan_2026 na Imersão Dados com Python II da Alura. Este projeto utiliza uma base de dados da Kaggle para desenvolviemnto de um Analisador de Profissões de Computação, com ênfase no salário que determinado profissional ganha, média salárias, loclaização e mudanças entra os anos de 2020 até 2025 com VS Code e Googel Colab. Feita cópia e cola do repositório da Alura. Aqui, conterá aspenas os arquivos necessários para execução do  porjeto. No repositório da Alura conterá mais arquivos para estudo e armazenamento de todo o desenvolvimento durante a jornada de aprendizado.
+
+Projeto disponível para visualização aqui: https://dashboard-interativo-python-2026.streamlit.app/
